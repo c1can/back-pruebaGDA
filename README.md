@@ -24,6 +24,8 @@ DB_PASSWORD=contrasena
 ```
 ### Levanta el proyecto
 
+Antes de levantar el servidor por favor leer el archivo index.js
+
 ```bash
   node .\index.js
 ```
